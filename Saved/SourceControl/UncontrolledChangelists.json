@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
 				"C:/Users/dominic.137436/Desktop/GloomFN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/IH/H8CZPR71HIMX3A40CD0VRC.uasset",
 				"C:/Users/dominic.137436/Desktop/GloomFN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/PK/0DZ34A4Z2UZH9FR3YSHJ8L.uasset",
 				"C:/Users/dominic.137436/Desktop/GloomFN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/K3/6EKN2A7N2XFMH5DJAC2IK1.uasset",
@@ -26,6 +27,17 @@
 				"C:/Users/dominic.137436/Desktop/GloomFN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/ED/3LGLEWEIJ639F25B6L2CUJ.uasset",
 				"C:/Users/dominic.137436/Desktop/GloomFN/Content/BP_Checkpoint.uasset",
 				"C:/Users/dominic.137436/Desktop/GloomFN/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/QM/BVUTB5G8KWPXXAYGXTK5KE.uasset"
+=======
+				"C:/Users/xavier.408758/Desktop/Gloom2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/ED/3LGLEWEIJ639F25B6L2CUJ.uasset",
+				"C:/Users/xavier.408758/Desktop/Gloom2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/IH/H8CZPR71HIMX3A40CD0VRC.uasset",
+				"C:/Users/xavier.408758/Desktop/Gloom2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/PL/Y9WI4W5K0FDNVUJN85GXIW.uasset",
+				"C:/Users/xavier.408758/Desktop/Gloom2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
+				"C:/Users/xavier.408758/Desktop/Gloom2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/K3/6EKN2A7N2XFMH5DJAC2IK1.uasset",
+				"C:/Users/xavier.408758/Desktop/Gloom2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/9X/QE3MJPPSR8ZB7X2FFAIH5R.uasset",
+				"C:/Users/xavier.408758/Desktop/Gloom2/Content/FirstPerson/Blueprints/Enemy.uasset",
+				"C:/Users/xavier.408758/Desktop/Gloom2/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
+				"C:/Users/xavier.408758/Desktop/Gloom2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset"
+>>>>>>> Stashed changes
 			]
 		}
 	]
